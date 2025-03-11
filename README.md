@@ -1,8 +1,10 @@
 # An $hp$  Error Analysis of HDG for Dynamic Poroelasticity
 
-![](https://github.com/capnemo40/Poroelasticity/blob/main/0V07.png)
-![](https://github.com/capnemo40/Poroelasticity/blob/main/0V09.png)
-![](https://github.com/capnemo40/Poroelasticity/blob/main/0V11.png)
+<p align="center">
+    <img src="https://github.com/capnemo40/Poroelasticity/blob/main/0V07.png" width="30%">
+    <img src="https://github.com/capnemo40/Poroelasticity/blob/main/0V09.png" width="30%">
+    <img src="https://github.com/capnemo40/Poroelasticity/blob/main/0V11.png" width="30%">
+</p>
 
 
 The codes have been implemented using the finite element library [Netgen/NGSolve](https://ngsolve.org).
