@@ -14,7 +14,7 @@ They have been tested with version 6.2.2404.
 Further details on the model and discretisation can be found in the [arXiv preprint](https://arxiv.org/abs/2503.08360):
 
 ```
-@Article{meddahiFSI2024,
+@Article{meddahiPoroElast2025,
 title = {An $hp$ Error Analysis of HDG for Dynamic Poroelasticity}, 
 author = {Meddahi, Salim},
 year = {2025},
